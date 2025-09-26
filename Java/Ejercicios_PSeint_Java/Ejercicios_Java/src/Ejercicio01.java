@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio01 {
     public static void main(){
         // Teclado
         Scanner sc = new Scanner(System.in);
